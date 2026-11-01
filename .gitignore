@@ -1,0 +1,17 @@
+# данные пользователя и кэши
+data/
+_selftest.py
+_test_*.py
+_server.log
+extracted_meta/
+*.zip
+*.mp4
+*.part
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+_run.log
+debug-port.txt
